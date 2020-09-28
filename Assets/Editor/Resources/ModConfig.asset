@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: modulo
   title: Modulo
-  description: 'Modulo 1.1
+  description: 'Modulo 1.11
 
     For those wanting a crash course on the modulo operation, fill yer boots!
 
@@ -27,6 +27,6 @@ MonoBehaviour:
 
 
     Manual available here: https://ktane.timwi.de/HTML/Modulo.html'
-  version: 1.1
+  version: 1.11
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 90f33af3633d2413ca17dd146541a1a7, type: 3}
